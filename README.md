@@ -1,4 +1,4 @@
-![image](https://github.com/Siddhartha082/Deploy_AWS_CDK_infra_using_GitHub_Actions_CICD_Pipeline/assets/110781138/dd06834c-0bbc-4910-81e1-c2f2366fd664)![image](https://github.com/Siddhartha082/Deploy_AWS_CDK_infra_using_GitHub_Actions_CICD_Pipeline/assets/110781138/b8a6f34c-cb5a-4549-abb1-931d6396aa28)
+
 # Welcome to your CDK Python project!
 
 This is a blank project for CDK development with Python.
@@ -83,6 +83,10 @@ By using Github Actions to deploy your AWS CDK infrastructure, you can automate 
 ![image](https://github.com/Siddhartha082/Deploy_AWS_CDK_infra_using_GitHub_Actions_CICD_Pipeline/assets/110781138/07a48bcb-5ab5-4f90-b4da-acdc1a2002b0)
 
 # now Enter AWS console
+
+![image](https://github.com/Siddhartha082/Deploy_AWS_CDK_infra_using_GitHub_Actions_CICD_Pipeline/assets/110781138/dd06834c-0bbc-4910-81e1-c2f2366fd664)
+
+![image](https://github.com/Siddhartha082/Deploy_AWS_CDK_infra_using_GitHub_Actions_CICD_Pipeline/assets/110781138/b8a6f34c-cb5a-4549-abb1-931d6396aa28)
 
 ![image](https://github.com/Siddhartha082/Deploy_AWS_CDK_infra_using_GitHub_Actions_CICD_Pipeline/assets/110781138/cfc55aea-783b-46bb-bf8b-18f78d948af6)
 
